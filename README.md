@@ -4,4 +4,4 @@
 
 - 📫 https://www.linkedin.com/in/rafaelmanteigabalbino/ ou rafael.manteiga@hotmail.com
 
-- ♟️ Python, C# e C
+- ♟️ Python e C#
