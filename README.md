@@ -5,3 +5,5 @@
 - 📫 https://www.linkedin.com/in/rafaelmanteigabalbino/ ou rafael.manteiga@hotmail.com
 
 - ♟️ Python e R
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fael0306)](https://github.com/anuraghazra/github-readme-stats)
