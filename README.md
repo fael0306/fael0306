@@ -1,4 +1,4 @@
-- 🔭 Estagiário de Suporte e Monitoração na T-Systems do Brasil
+- 🔭 Estagiário de suporte e monitoração na T-Systems do Brasil
 
 - 🌱 Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro
 
