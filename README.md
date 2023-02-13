@@ -4,4 +4,4 @@
 
 - ♟️ Python e R
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fael0306)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fael0306)
