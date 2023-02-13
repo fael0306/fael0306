@@ -4,4 +4,4 @@
 
 - ♟️ Python e R
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fael0306)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fael0306)
