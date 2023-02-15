@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/25599308/219169183-abc5caaa-f4cf-4ae1-9cf3-1ce5a68a86b7.png) Técnico de suporte a sistemas na T-Systems do Brasil
+![icons8-work-64](https://user-images.githubusercontent.com/25599308/219169533-5f2f9d19-61f4-45bb-9e17-457edcfcef4c.png) Técnico de suporte a sistemas na T-Systems do Brasil
 
 - Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro<br><br>
 
