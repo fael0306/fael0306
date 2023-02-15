@@ -5,12 +5,5 @@
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaelmanteigabalbino/) &nbsp;
   
 ## Conhecimentos 👩🏻‍💻
-![Python](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Python&logoColor=white) &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js) &nbsp;
-<br>
-<br>
-
+https://icons8.com/icon/l75OEUJkPAk4/python
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fael0306)
