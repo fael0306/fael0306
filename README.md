@@ -2,7 +2,7 @@
 
 - 🌱 Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro<br><br>
 
-Linkedin<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaelmanteigabalbino/) &nbsp;
 
 Linguagens<br>
