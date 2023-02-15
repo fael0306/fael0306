@@ -2,6 +2,6 @@
 
 - 🌱 Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro
 
-![image](https://user-images.githubusercontent.com/25599308/219150052-3f4e0735-acc3-47ff-982d-ddc26c2c13cb.png)
+https://img.shields.io/badge/dynamic/json?url=https://www.linkedin.com/in/rafaelmanteigabalbino/ & label=healthinesses&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fael0306)
