@@ -6,7 +6,7 @@
   
 ## Conhecimentos 👩🏻‍💻
 ![icons8-python-48](https://user-images.githubusercontent.com/25599308/219158898-43964b1f-e7b9-479c-9d42-551d5b244e28.png)
-![image](https://user-images.githubusercontent.com/25599308/219160220-bddce80e-68e2-4f01-90b5-ef4eed42a93b.png)
+![image](https://user-images.githubusercontent.com/25599308/219160533-fdb37cc4-81de-4b6c-8d76-a25d0a470fbd.png)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fael0306)
