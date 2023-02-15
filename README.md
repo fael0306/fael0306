@@ -1,6 +1,4 @@
-Técnico de suporte a sistemas na T-Systems do Brasil
-
-Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro
+![image](https://user-images.githubusercontent.com/25599308/219175831-e59bc733-b4c1-4d55-802a-11640b7829ee.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaelmanteigabalbino/) &nbsp;
 
