@@ -1,5 +1,5 @@
 ### _Cargo_
-- Técnico de suporte a sistemas na T-Systems do Brasil
+'''Técnico de suporte a sistemas na T-Systems do Brasil'''
 
 ### _Formação_
 - Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro
