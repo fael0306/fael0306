@@ -1,4 +1,5 @@
 ##- Técnico de suporte a sistemas na T-Systems do Brasil
+
 ##- Bacharelando em Ciência da Computação na Universidade do Estado do Rio de Janeiro
 
 # LinkedIn
