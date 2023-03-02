@@ -8,4 +8,4 @@
 ![icons8-python-48](https://user-images.githubusercontent.com/25599308/219158898-43964b1f-e7b9-479c-9d42-551d5b244e28.png)
 ![icons8-r-project-48](https://user-images.githubusercontent.com/25599308/219160932-e07da749-8620-4abb-9c80-f2bb6f39b230.png)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fael0306)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fael0306&layout=compact)
