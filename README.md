@@ -2,3 +2,4 @@
 ![icons8-r-project-48](https://user-images.githubusercontent.com/25599308/219160932-e07da749-8620-4abb-9c80-f2bb6f39b230.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fael0306&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fael0306&layout=compact)
