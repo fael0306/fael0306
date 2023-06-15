@@ -1,7 +1,6 @@
 ## <strong>Rafael Manteiga Balbino</strong>
 
-## Técnico de Suporte a Sistemas I na T-Systems do Brasil<br>
-## Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro
+> Técnico de Suporte a Sistemas I na T-Systems do Brasil<br>Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro
 
 💬 E-mail: rafael.manteiga@hotmail.com
 
