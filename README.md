@@ -1,6 +1,6 @@
 ## <strong>Rafael Manteiga Balbino</strong>
 
-> <code><img height="32" src="https://github.com/fael0306/fael0306/assets/25599308/2b562c88-111f-4f8d-b127-42830a688532" alt="T"/></code> Técnico de suporte a sistemas na T-Systems do Brasil<br>Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro
+> <code><img height="32" src="https://github.com/fael0306/fael0306/assets/25599308/2b562c88-111f-4f8d-b127-42830a688532" alt="T"/>Técnico de suporte a sistemas na T-Systems do Brasil<br>Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro</code>
 
 💬 E-mail: rafael.manteiga@hotmail.com
 
