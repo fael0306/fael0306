@@ -1,6 +1,6 @@
 ## <strong>Rafael Manteiga Balbino</strong>
 
-> <img height="100" src="https://github.com/fael0306/fael0306/assets/25599308/2b562c88-111f-4f8d-b127-42830a688532" alt="T"/> Técnico de suporte a sistemas na T-Systems do Brasil<br><br><img height="100" src="https://github.com/fael0306/fael0306/assets/25599308/0edc0f90-a1cc-41e4-8369-b2fae6d2e943" alt="UERJ"/> Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro
+> <img height="32" src="https://github.com/fael0306/fael0306/assets/25599308/2b562c88-111f-4f8d-b127-42830a688532" alt="T"/> Técnico de suporte a sistemas na T-Systems do Brasil<br><br><img height="32" src="https://github.com/fael0306/fael0306/assets/25599308/0edc0f90-a1cc-41e4-8369-b2fae6d2e943" alt="UERJ"/> Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro
 
 💬 E-mail: rafael.manteiga@hotmail.com
 
@@ -8,8 +8,8 @@
 
 ## Linguagens
 
-<code><img height="32" src="https://user-images.githubusercontent.com/25599308/219158898-43964b1f-e7b9-479c-9d42-551d5b244e28.png" alt="Python"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/25599308/219160932-e07da749-8620-4abb-9c80-f2bb6f39b230.png" alt="R"/></code>
+<code><img height="64" src="https://user-images.githubusercontent.com/25599308/219158898-43964b1f-e7b9-479c-9d42-551d5b244e28.png" alt="Python"/></code>
+<code><img height="64" src="https://user-images.githubusercontent.com/25599308/219160932-e07da749-8620-4abb-9c80-f2bb6f39b230.png" alt="R"/></code>
 
 ----
 
