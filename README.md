@@ -10,7 +10,7 @@
 
 <code><img height="40" src="https://user-images.githubusercontent.com/25599308/219158898-43964b1f-e7b9-479c-9d42-551d5b244e28.png" alt="Python"/></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/25599308/219160932-e07da749-8620-4abb-9c80-f2bb6f39b230.png" alt="R"/></code>
-<code>![icons8-postgreesql-100](https://github.com/fael0306/fael0306/assets/25599308/997f6877-b4e0-4740-8dc6-6dcd7106b848)</code>
+<code><img height="40" ![icons8-postgreesql-100](https://github.com/fael0306/fael0306/assets/25599308/997f6877-b4e0-4740-8dc6-6dcd7106b848 alt="PostgreSQL")</code>
 
 ----
 
