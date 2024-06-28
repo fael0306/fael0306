@@ -1,6 +1,6 @@
 ## <strong>Rafael Manteiga Balbino</strong>
 
-<img height="40" src="https://github.com/fael0306/fael0306/assets/25599308/0edc0f90-a1cc-41e4-8369-b2fae6d2e943" alt="UERJ"/> Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro.
+<img height="32" src="https://github.com/fael0306/fael0306/assets/25599308/0edc0f90-a1cc-41e4-8369-b2fae6d2e943" alt="UERJ"/> Bacharelando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro.
 
 💬 E-mail: rafael.manteiga@hotmail.com
 
