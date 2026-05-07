@@ -52,11 +52,4 @@ Sistema web privado para controle financeiro e operacional de obras, desenvolvid
 
 ---
 
-## 📬 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafaelmanteigabalbino/)
-- 📧 [rafael.manteiga@hotmail.com](mailto:rafael.manteiga@hotmail.com)
-
----
-
 *Este README foi gerado pelo Deepseek.*
