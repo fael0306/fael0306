@@ -14,8 +14,7 @@
 ## 🧠 Sobre
 
 🎓 Estudante de **Ciência da Computação** pela **UERJ**, com experiência prática em suporte técnico e análise de dados.  
-💻 Foco em **Python**, **PostgreSQL** e automação de processos.  
-🚀 Apaixonado por transformar dados em soluções reais para negócios e educação.
+💻 Foco em **Python** e **PostgreSQL**.
 
 ---
 
