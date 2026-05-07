@@ -27,7 +27,7 @@
 
 ## 📊 Linguagens mais usadas
 
-<div align="center">
+<div>
   <img src="./assets/top-langs.svg" alt="Top Languages" />
 </div>
 
