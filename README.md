@@ -40,10 +40,20 @@ Laboratório virtual interativo para ensino de paleontologia, com dados científ
 **Stack:** Python, Streamlit, Pandas, Matplotlib  
 [🔗 Repositório](https://github.com/fael0306/dino)
 
-### 📋 Lista de Tarefas CLI
-Gerenciador de tarefas por linha de comando com categorias, tags, persistência JSON e undo/redo.  
-**Stack:** Python puro (stdlib)  
-[🔗 Repositório](https://github.com/fael0306/lista-tarefas-simples)
+### 🧩 Sudoku
+Jogo de Sudoku com interface de linha de comando, geração de tabuleiros e verificação.  
+**Stack:** Python  
+[🔗 Repositório](https://github.com/fael0306/sudoku)
+
+### ✖️⭕ Jogo da Velha
+Clássico jogo da velha (tic-tac-toe) para dois jogadores, com verificação de vitória.  
+**Stack:** Python  
+[🔗 Repositório](https://github.com/fael0306/jogodavelha)
+
+### 🃏 Blackjack
+Simulação do jogo de cartas Blackjack contra o dealer, seguindo regras tradicionais.  
+**Stack:** Python  
+[🔗 Repositório](https://github.com/fael0306/blackjack)
 
 ### 🔒 Magnum Engenharia – Sistema de Gestão de Obras
 Sistema web privado para controle financeiro e operacional de obras, desenvolvido sob demanda para a Magnum Engenharia.  
